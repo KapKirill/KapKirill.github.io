@@ -335,12 +335,13 @@ color:#363f48;
 .left_box_1
 {
   float: left;
-  border: 1px solid #3F414F;
   line-height: 0;
   margin-bottom: 25px;
   padding: 1px;
 }
-
+.left_box_1 h2 {
+	margin-bottom: 10px;
+}
 .left_box_2
 {
   float: left;
